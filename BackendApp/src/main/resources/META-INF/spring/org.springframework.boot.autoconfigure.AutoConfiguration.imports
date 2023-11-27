@@ -1,0 +1,3 @@
+com.minatoorgtestcase.app1234567.config.ApplicationRepositoriesAutoConfiguration
+com.minatoorgtestcase.app1234567.config.ApplicationTransactionManagersAutoConfig
+com.minatoorgtestcase.app1234567.config.ApplicationProvidersAutoConfiguration
